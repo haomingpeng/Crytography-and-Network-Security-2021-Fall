@@ -3,7 +3,7 @@
 This repository contains additional course materials of CS330500 (Fall 2021) that cannot be found in
 the official [course website](http://is.cs.nthu.edu.tw/course/2021Fall/CS330500/).
 
-Possible materials are:
+Possible materials includes:
 
 * course announcement,
 * lecture summary of each course,
