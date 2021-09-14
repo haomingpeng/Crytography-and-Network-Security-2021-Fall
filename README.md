@@ -10,7 +10,7 @@ Possible materials includes:
 * et cetera.
 
 ## :loud_sound: Announcements
-* :bangbang: [09/15] The [CTF platform](http://140.114.77.172:8000) has been set up! Some assignments will be published there.
+* :bangbang: [09/15] Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
 * [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic!
 
 ## :mask: Adjustments for Distance Learning (if necessary)
