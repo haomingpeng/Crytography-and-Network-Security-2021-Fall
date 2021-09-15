@@ -6,12 +6,12 @@ the official [course website](http://is.cs.nthu.edu.tw/course/2021Fall/CS330500/
 Possible materials includes:
 
 * course announcements,
-* lecture summary of each course,
+* lecture summary,
 * et cetera.
 
 ## :loud_sound: Announcements
 * :bangbang: [09/15] Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
-* [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic!
+* [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic! 
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
