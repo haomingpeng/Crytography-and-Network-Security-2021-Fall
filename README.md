@@ -16,7 +16,7 @@ Possible materials includes:
 ## :mask: Adjustments for Distance Learning (if necessary)
 
 * Roll call: A form will be sent during each lecture session such that you have to fill in a passcode exposed by Professor Sun in that session along with your name and student ID.
-* Exams: The exams will be opened-book but with much harder problem.
+* Exams: The exams will be opened-book but with much harder problems.
 * Grading:
 
   Activity | Percentage
