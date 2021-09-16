@@ -6,7 +6,7 @@ the official [course website](http://is.cs.nthu.edu.tw/course/2021Fall/CS330500/
 Possible materials includes:
 
 * course announcements,
-* lecture summary,
+* lecture summaries,
 * et cetera.
 
 ## :loud_sound: Announcements
