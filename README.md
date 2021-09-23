@@ -6,7 +6,7 @@ the official [course website](http://is.cs.nthu.edu.tw/course/2021Fall/CS330500/
 Possible materials includes:
 
 * course announcements,
-* lecture summaries,
+* lecture videos,
 * et cetera.
 
 ## :loud_sound: Announcements
@@ -17,7 +17,7 @@ Possible materials includes:
 
 Date  | Slides         | Video links
 ------|----------------|-----------------
-09/23 |Chapter 1.1-1.9 |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
+09/16 |Chapter 1.1-1.9 |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
