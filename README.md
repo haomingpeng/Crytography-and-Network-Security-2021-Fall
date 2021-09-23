@@ -15,9 +15,10 @@ Possible materials includes:
 
 ## :date: Syllabus
 
-Date  | Slides         | Video links
-------|----------------|-----------------
-09/16 |Chapter 1.1-1.9 |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
+Date  | Slides          | Video links
+------|-----------------|-----------------
+09/16 |Chapter 1.1-1.9  |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
+09/23 |Chapter 1.9-1.11 |https://drive.google.com/file/d/1s1r8Mh7SZvnDa59lLMZ4Hm9TrR_Pi8kq/view?usp=sharing
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
