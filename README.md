@@ -13,7 +13,7 @@ Possible materials includes:
 * :bangbang: [09/15] Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
 * [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic! 
 
-## Syllabus
+## :date: Syllabus
 
 Date  | Slides         | Video links
 ------|----------------|-----------------
