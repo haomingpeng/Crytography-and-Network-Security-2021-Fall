@@ -13,6 +13,12 @@ Possible materials includes:
 * :bangbang: [09/15] Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
 * [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic! 
 
+## Syllabus
+
+Date  | Slides         | Video links
+------|----------------|-----------------
+09/23 |Chapter 1.1-1.9 |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
+
 ## :mask: Adjustments for Distance Learning (if necessary)
 
 * Roll call: A form will be sent during each lecture session such that you have to fill in a passcode exposed by Professor Sun in that session along with your name and student ID.
