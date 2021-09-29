@@ -18,7 +18,8 @@ Possible materials includes:
 Date  | Slides          | Video links
 ------|-----------------|-----------------
 09/16 |Chapter 1.1-1.9  |https://drive.google.com/file/d/14pq_kBLNslRuQaGkmaGkx6fhW7YhuPIm/view?usp=sharing
-09/23 |Chapter 1.9-1.11 |https://drive.google.com/file/d/1s1r8Mh7SZvnDa59lLMZ4Hm9TrR_Pi8kq/view?usp=sharing
+09/23 |Chapter 1.9-1.17 |https://drive.google.com/file/d/1s1r8Mh7SZvnDa59lLMZ4Hm9TrR_Pi8kq/view?usp=sharing
+09/27 |Chapter 1.17-1.22, 2.1-2.24|https://drive.google.com/file/d/1N0ipWb-wx46fjpFhxm3SwxDS8Z0AEzhL/view?usp=sharing
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
