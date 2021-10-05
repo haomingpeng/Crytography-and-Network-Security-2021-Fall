@@ -30,7 +30,7 @@ Date  | Slides                    | Video links
 * Your solutions must be **typed** and **submitted in PDF format**, either using Latex of not.
 * Your solutions must be clearly reasoned, or **you might lose some or all points even if your results are correct**, especially for those problems without fixed solutions.
 * I encourage collaborative teamwork, whether with your classmates or with others onlines, but eventually you have to **write in your own tone**. No mercy for plagiarism.
-* Sometimes you will get a special "θ" points on a problem. It means that I can interpret your solution in various angles, which is correct in one way but completely wrong in another. I will give you an opportunity to hypnotize me that you are right orally.
+* Sometimes you will get a special **θ** points on a problem. It means that I can interpret your solution in various angles, which is correct in one way but completely wrong in another. **I will give you an opportunity to hypnotize me that you are right orally.**
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
