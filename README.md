@@ -27,6 +27,7 @@ Date  | Slides                    | Video links
 
 ## ✍️ Some rules of submitting  assignment
 
+* Submit your assignment through Google classroom.
 * Your solutions must be **typed** and **submitted in PDF format**, either using Latex of not.
 * Your solutions must be clearly reasoned, or **you might lose some or all points even if your results are correct**, especially for those problems without fixed solutions.
 * I encourage collaborative teamwork, whether with your classmates or with others onlines, but eventually you have to **write in your own tone**. No mercy for plagiarism.
