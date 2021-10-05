@@ -10,7 +10,7 @@ Possible materials includes:
 * et cetera.
 
 ## :loud_sound: Announcements
-* [10/05] :bangbang: Here comes your first [assignment](https://drive.google.com/drive/folders/1s1Z1DZ9yBS21Dspzr9P9X8rnAjNHFEj5?usp=sharing).
+* [10/05] :bangbang: Here comes your first [assignment](https://drive.google.com/drive/folders/1s1Z1DZ9yBS21Dspzr9P9X8rnAjNHFEj5?usp=sharing). Read the rules of submitting assignment below.
 * [09/30] Updated version of lecture notes can be downloaded from [here](https://drive.google.com/drive/folders/1wlOaQ83yVOwZhJyqua4RYQK5_cU17yI3?usp=sharing).
 * [09/15] :bangbang: Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
 * [09/13] All requests for extra selection will be **denied** due to the inconvenience of COVID-19 epidemic! 
