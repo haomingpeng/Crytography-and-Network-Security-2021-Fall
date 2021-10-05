@@ -23,7 +23,7 @@ Date  | Slides                    | Video links
 09/23 |Chapter 1.9-1.17           |https://drive.google.com/file/d/1s1r8Mh7SZvnDa59lLMZ4Hm9TrR_Pi8kq/view?usp=sharing
 09/27 |Chapter 1.17-1.22, 2.1-2.24|https://drive.google.com/file/d/1N0ipWb-wx46fjpFhxm3SwxDS8Z0AEzhL/view?usp=sharing
 09/30 |Chapter 2.23-2.37          |https://drive.google.com/file/d/10PI1B-pp4Y0dX6AEg1QvpRC79OKiBFkx/view?usp=sharing
-10/04 |Chapter 2.37-2.79          |Go up in smoke!!
+10/04 |Chapter 2.37-2.79          |It goes up in smoke. I'm sorry.
 
 ## :mask: Adjustments for Distance Learning (if necessary)
 
