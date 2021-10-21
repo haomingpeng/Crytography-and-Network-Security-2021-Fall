@@ -25,6 +25,7 @@ Date  | Slides                    | Video links
 09/30 |Chapter 2.23-2.37          |https://drive.google.com/file/d/10PI1B-pp4Y0dX6AEg1QvpRC79OKiBFkx/view?usp=sharing
 10/04 |Chapter 2.37-2.79          |It goes up in smoke. I'm sorry.
 10/07 |Chapter 2.79-3.9           |https://drive.google.com/file/d/1y67OgWUZE4T4AiB7er-ysQIfqPAn3Pxq/view?usp=sharing
+10/14 |Chapter 3.9-3.23           |https://drive.google.com/file/d/1jZOmVhktWtz7Wxvr7RWESckF4C_n8TRN/view?usp=sharing
 
 ## ✍️ Some rules of submitting  assignment
 
