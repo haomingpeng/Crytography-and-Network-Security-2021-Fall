@@ -10,6 +10,7 @@ Possible materials includes:
 * et cetera.
 
 ## :loud_sound: Announcements
+* [10/23] Due to the COVID-19 epidemic, the exams will be replaced by one or two projects.
 * [10/05] :bangbang: Here comes your first [assignment](https://drive.google.com/drive/folders/1s1Z1DZ9yBS21Dspzr9P9X8rnAjNHFEj5?usp=sharing). Read the rules of submitting assignment below.
 * [09/30] Updated version of lecture notes can be downloaded from [here](https://drive.google.com/drive/folders/1wlOaQ83yVOwZhJyqua4RYQK5_cU17yI3?usp=sharing).
 * [09/15] :bangbang: Register to the [CTF platform](http://140.114.77.172:8000)! Some assignments will be published there.
@@ -41,7 +42,7 @@ Date  | Slides                    | Video links
 ## :mask: Adjustments for Distance Learning (if necessary)
 
 * Roll call: A form will be sent during each lecture session such that you have to fill in a passcode exposed by Professor Sun in that session along with your name and student ID.
-* Exams: The exams will be opened-book but with much harder problems.
+* Exams: The exams will be replaced by 1 or 2 proejcts.
 * Grading:
 
   Activity | Percentage
