@@ -10,6 +10,7 @@ Possible materials includes:
 * et cetera.
 
 ## :loud_sound: Announcements
+* [10/26] :bangbang: Second [assignment](https://classroom.google.com/u/0/c/NDAxOTA0MTA3Mjgw/a/NDIwMjk5ODQyMTEz/submissions/by-status/and-sort-last-name/all).
 * [10/23] Due to the COVID-19 epidemic, the exams will be replaced by one or two projects.
 * [10/05] :bangbang: Here comes your first [assignment](https://drive.google.com/drive/folders/1s1Z1DZ9yBS21Dspzr9P9X8rnAjNHFEj5?usp=sharing). Read the rules of submitting assignment below.
 * [09/30] Updated version of lecture notes can be downloaded from [here](https://drive.google.com/drive/folders/1wlOaQ83yVOwZhJyqua4RYQK5_cU17yI3?usp=sharing).
