@@ -30,6 +30,7 @@ Date  | Slides                    | Video links
 10/14 |Chapter 3.9-3.23           |https://drive.google.com/file/d/1jZOmVhktWtz7Wxvr7RWESckF4C_n8TRN/view?usp=sharing
 10/21 |[link][1] |https://drive.google.com/file/d/1EJ57XB0Aepiy1IUvLT2AacGLKWklLy3E/view?usp=sharing
 10/25 |private | private
+10/28 |Chapter 3.45-3.53|https://drive.google.com/file/d/1-eEzHSBFCPcfeIO3Cxh0OFbQ6aMRhFZ3/view?usp=sharing
 
 [1]: https://docs.google.com/presentation/d/18DnmiEFp2wCimb3poV2H3UHCVwfyRenH/edit?usp=sharing&ouid=114358796057671861595&rtpof=true&sd=true
 
